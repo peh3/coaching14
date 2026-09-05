@@ -16,7 +16,7 @@ Group activity to familiarize with git
 
 # Code Contributors
 - peh3
-- tklearning.1983 
+- tklearning1983 
 
 # …or create a new repository on the command line
 echo "# coaching14" >> README.md
