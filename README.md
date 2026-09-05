@@ -17,3 +17,17 @@ Group activity to familiarize with git
 # Code Contributors
 - peh3
 - tklearning.1983 
+
+# …or create a new repository on the command line
+echo "# coaching14" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/peh3/coaching14.git
+git push -u origin main
+
+# …or push an existing repository from the command line
+git remote add origin https://github.com/peh3/coaching14.git
+git branch -M main
+git push -u origin main
