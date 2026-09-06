@@ -1,5 +1,5 @@
 # Overview
-Group activity to familiarize with git for today
+Group activity to familiarize with git for today 20260906
 
 # Commands
 1. `git init` - initializes a git repository
