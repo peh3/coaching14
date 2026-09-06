@@ -1,6 +1,6 @@
 # Overview
 Group activity to familiarize with git for today is my day
-Group activity to familiarize with git for today 20260906
+Group activity to familiarize with git for today 20260906-1
 
 # Commands
 1. `git init` - initializes a git repository
